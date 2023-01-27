@@ -1,0 +1,40 @@
+#image {
+max-width: 100%;
+height: auto;
+display: block;
+  }
+#title {
+  text-align: center;
+  font-family: arial;
+  color: orange;
+  font-size: 30px;
+  padding-top: 20px;
+}
+#img-caption{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 20px;
+  font-family: arial;
+}
+#tribute-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: arial;
+  padding-left: 50px;
+  padding-right: 50px; 
+}
+#tribute-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+#main {
+  background-color: lightgrey;
+}
